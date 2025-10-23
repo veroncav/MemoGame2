@@ -1,0 +1,76 @@
+﻿<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:MemoGame"
+             x:Class="MemoGame.MainPage"
+             BackgroundColor="{DynamicResource PageBackgroundColor}">
+
+    <ContentPage.Resources>
+        <Style TargetType="Button" x:Key="ThemeButtonStyle">
+            <Setter Property="CornerRadius" Value="12"/>
+            <Setter Property="FontAttributes" Value="Bold"/>
+            <Setter Property="BackgroundColor" Value="{DynamicResource ButtonBackgroundColor}"/>
+            <Setter Property="TextColor" Value="{DynamicResource ButtonTextColor}"/>
+            <Setter Property="Padding" Value="10,5"/>
+        </Style>
+        <local:InverseBoolConverter x:Key="InverseBoolConverter" />
+    </ContentPage.Resources>
+
+    <VerticalStackLayout Spacing="12" Padding="24" VerticalOptions="Center">
+
+        <!-- Темы -->
+        <HorizontalStackLayout Spacing="12" HorizontalOptions="Center">
+            <Button Text="Light" Style="{StaticResource ThemeButtonStyle}" Clicked="OnLightThemeClicked"/>
+            <Button Text="Dark" Style="{StaticResource ThemeButtonStyle}" Clicked="OnDarkThemeClicked"/>
+            <Button Text="Ocean" Style="{StaticResource ThemeButtonStyle}" Clicked="OnOceanThemeClicked"/>
+            <Button Text="Pink" Style="{StaticResource ThemeButtonStyle}" Clicked="OnPinkThemeClicked"/>
+        </HorizontalStackLayout>
+
+        <!-- Категории -->
+        <Label Text="Choose icons:" HorizontalOptions="Center" 
+               TextColor="{DynamicResource PrimaryTextColor}" Margin="0,10,0,0"/>
+        <HorizontalStackLayout Spacing="8" HorizontalOptions="Center">
+            <Button Text="Fruits" Style="{StaticResource ThemeButtonStyle}" Clicked="OnFruitsClicked"/>
+            <Button Text="Vegetables" Style="{StaticResource ThemeButtonStyle}" Clicked="OnVegetablesClicked"/>
+            <Button Text="Sweets" Style="{StaticResource ThemeButtonStyle}" Clicked="OnSweetsClicked"/>
+            <Button Text="Animals" Style="{StaticResource ThemeButtonStyle}" Clicked="OnAnimalsClicked"/>
+            <Button Text="Mix" Style="{StaticResource ThemeButtonStyle}" Clicked="OnMixClicked"/>
+        </HorizontalStackLayout>
+
+        <!-- Очки -->
+        <Label x:Name="ScoreLabel" Text="Score: 0" FontSize="26" FontAttributes="Bold"
+               TextColor="{DynamicResource PrimaryTextColor}" HorizontalOptions="Center" Margin="0,20,0,20"/>
+
+        <!-- Игровое поле -->
+        <CollectionView x:Name="CardsCollectionView" SelectionMode="None" HorizontalOptions="Center">
+            <CollectionView.ItemsLayout>
+                <GridItemsLayout Orientation="Vertical" Span="4" />
+            </CollectionView.ItemsLayout>
+
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <Frame Padding="0" Margin="6" HeightRequest="70" WidthRequest="70"
+                           BorderColor="{DynamicResource CardBorderColor}" BackgroundColor="{DynamicResource CardBackColor}"
+                           HasShadow="True" CornerRadius="10">
+                        <Grid>
+                            <Label Text="{Binding Symbol}" FontSize="40" 
+                                   HorizontalOptions="Center" VerticalOptions="Center"
+                                   IsVisible="{Binding IsFlipped}" 
+                                   TextColor="{DynamicResource PrimaryTextColor}" />
+                            <BoxView Color="{DynamicResource CardBackColor}" 
+                                     IsVisible="{Binding IsFlipped, Converter={StaticResource InverseBoolConverter}}" 
+                                     CornerRadius="10"/>
+                        </Grid>
+                        <Frame.GestureRecognizers>
+                            <TapGestureRecognizer Tapped="OnCardTapped" CommandParameter="{Binding .}"/>
+                        </Frame.GestureRecognizers>
+                    </Frame>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+
+        <Button Text="New Game" Clicked="OnNewGameClicked" 
+                Style="{StaticResource ThemeButtonStyle}"
+                HorizontalOptions="Center" WidthRequest="220" Margin="0,20,0,0"/>
+
+    </VerticalStackLayout>
+</ContentPage>

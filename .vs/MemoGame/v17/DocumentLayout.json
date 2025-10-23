@@ -1,0 +1,232 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wwwgl\\source\\repos\\MemoGame2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBB1C70-9AA2-414E-BB49-34A28A7C0960}|MemoGame\\MemoGame.csproj|c:\\users\\wwwgl\\source\\repos\\memogame2\\memogame\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FBB1C70-9AA2-414E-BB49-34A28A7C0960}|MemoGame\\MemoGame.csproj|solutionrelative:memogame\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBB1C70-9AA2-414E-BB49-34A28A7C0960}|MemoGame\\MemoGame.csproj|c:\\users\\wwwgl\\source\\repos\\memogame2\\memogame\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1FBB1C70-9AA2-414E-BB49-34A28A7C0960}|MemoGame\\MemoGame.csproj|solutionrelative:memogame\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBB1C70-9AA2-414E-BB49-34A28A7C0960}|MemoGame\\MemoGame.csproj|c:\\users\\wwwgl\\source\\repos\\memogame2\\memogame\\inverseboolconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FBB1C70-9AA2-414E-BB49-34A28A7C0960}|MemoGame\\MemoGame.csproj|solutionrelative:memogame\\inverseboolconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBB1C70-9AA2-414E-BB49-34A28A7C0960}|MemoGame\\MemoGame.csproj|c:\\users\\wwwgl\\source\\repos\\memogame2\\memogame\\models\\theme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FBB1C70-9AA2-414E-BB49-34A28A7C0960}|MemoGame\\MemoGame.csproj|solutionrelative:memogame\\models\\theme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBB1C70-9AA2-414E-BB49-34A28A7C0960}|MemoGame\\MemoGame.csproj|c:\\users\\wwwgl\\source\\repos\\memogame2\\memogame\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FBB1C70-9AA2-414E-BB49-34A28A7C0960}|MemoGame\\MemoGame.csproj|solutionrelative:memogame\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBB1C70-9AA2-414E-BB49-34A28A7C0960}|MemoGame\\MemoGame.csproj|c:\\users\\wwwgl\\source\\repos\\memogame2\\memogame\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FBB1C70-9AA2-414E-BB49-34A28A7C0960}|MemoGame\\MemoGame.csproj|solutionrelative:memogame\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBB1C70-9AA2-414E-BB49-34A28A7C0960}|MemoGame\\MemoGame.csproj|c:\\users\\wwwgl\\source\\repos\\memogame2\\memogame\\models\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FBB1C70-9AA2-414E-BB49-34A28A7C0960}|MemoGame\\MemoGame.csproj|solutionrelative:memogame\\models\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBB1C70-9AA2-414E-BB49-34A28A7C0960}|MemoGame\\MemoGame.csproj|c:\\users\\wwwgl\\source\\repos\\memogame2\\memogame\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FBB1C70-9AA2-414E-BB49-34A28A7C0960}|MemoGame\\MemoGame.csproj|solutionrelative:memogame\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBB1C70-9AA2-414E-BB49-34A28A7C0960}|MemoGame\\MemoGame.csproj|c:\\users\\wwwgl\\source\\repos\\memogame2\\memogame\\resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1FBB1C70-9AA2-414E-BB49-34A28A7C0960}|MemoGame\\MemoGame.csproj|solutionrelative:memogame\\resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBB1C70-9AA2-414E-BB49-34A28A7C0960}|MemoGame\\MemoGame.csproj|c:\\users\\wwwgl\\source\\repos\\memogame2\\memogame\\globalxmlns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FBB1C70-9AA2-414E-BB49-34A28A7C0960}|MemoGame\\MemoGame.csproj|solutionrelative:memogame\\globalxmlns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBB1C70-9AA2-414E-BB49-34A28A7C0960}|MemoGame\\MemoGame.csproj|c:\\users\\wwwgl\\source\\repos\\memogame2\\memogame\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1FBB1C70-9AA2-414E-BB49-34A28A7C0960}|MemoGame\\MemoGame.csproj|solutionrelative:memogame\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBB1C70-9AA2-414E-BB49-34A28A7C0960}|MemoGame\\MemoGame.csproj|c:\\users\\wwwgl\\source\\repos\\memogame2\\memogame\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1FBB1C70-9AA2-414E-BB49-34A28A7C0960}|MemoGame\\MemoGame.csproj|solutionrelative:memogame\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Styles.xaml",
+              "DocumentMoniker": "C:\\Users\\wwwgl\\source\\repos\\MemoGame2\\MemoGame\\Resources\\Styles\\Styles.xaml",
+              "RelativeDocumentMoniker": "MemoGame\\Resources\\Styles\\Styles.xaml",
+              "ToolTip": "C:\\Users\\wwwgl\\source\\repos\\MemoGame2\\MemoGame\\Resources\\Styles\\Styles.xaml",
+              "RelativeToolTip": "MemoGame\\Resources\\Styles\\Styles.xaml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-22T18:58:51.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\wwwgl\\source\\repos\\MemoGame2\\MemoGame\\App.xaml",
+              "RelativeDocumentMoniker": "MemoGame\\App.xaml",
+              "ToolTip": "C:\\Users\\wwwgl\\source\\repos\\MemoGame2\\MemoGame\\App.xaml",
+              "RelativeToolTip": "MemoGame\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-22T18:47:40.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\wwwgl\\source\\repos\\MemoGame2\\MemoGame\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MemoGame\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\wwwgl\\source\\repos\\MemoGame2\\MemoGame\\MainPage.xaml",
+              "RelativeToolTip": "MemoGame\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-22T18:47:08.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InverseBoolConverter.cs",
+              "DocumentMoniker": "C:\\Users\\wwwgl\\source\\repos\\MemoGame2\\MemoGame\\InverseBoolConverter.cs",
+              "RelativeDocumentMoniker": "MemoGame\\InverseBoolConverter.cs",
+              "ToolTip": "C:\\Users\\wwwgl\\source\\repos\\MemoGame2\\MemoGame\\InverseBoolConverter.cs",
+              "RelativeToolTip": "MemoGame\\InverseBoolConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T18:40:20.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\Users\\wwwgl\\source\\repos\\MemoGame2\\MemoGame\\Models\\Card.cs",
+              "RelativeDocumentMoniker": "MemoGame\\Models\\Card.cs",
+              "ToolTip": "C:\\Users\\wwwgl\\source\\repos\\MemoGame2\\MemoGame\\Models\\Card.cs",
+              "RelativeToolTip": "MemoGame\\Models\\Card.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T18:34:02.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\wwwgl\\source\\repos\\MemoGame2\\MemoGame\\Models\\Player.cs",
+              "RelativeDocumentMoniker": "MemoGame\\Models\\Player.cs",
+              "ToolTip": "C:\\Users\\wwwgl\\source\\repos\\MemoGame2\\MemoGame\\Models\\Player.cs",
+              "RelativeToolTip": "MemoGame\\Models\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T18:33:49.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\wwwgl\\source\\repos\\MemoGame2\\MemoGame\\Models\\Game.cs",
+              "RelativeDocumentMoniker": "MemoGame\\Models\\Game.cs",
+              "ToolTip": "C:\\Users\\wwwgl\\source\\repos\\MemoGame2\\MemoGame\\Models\\Game.cs",
+              "RelativeToolTip": "MemoGame\\Models\\Game.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAUwJYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T18:33:38.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Theme.cs",
+              "DocumentMoniker": "C:\\Users\\wwwgl\\source\\repos\\MemoGame2\\MemoGame\\Models\\Theme.cs",
+              "RelativeDocumentMoniker": "MemoGame\\Models\\Theme.cs",
+              "ToolTip": "C:\\Users\\wwwgl\\source\\repos\\MemoGame2\\MemoGame\\Models\\Theme.cs",
+              "RelativeToolTip": "MemoGame\\Models\\Theme.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T18:33:18.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\wwwgl\\source\\repos\\MemoGame2\\MemoGame\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MemoGame\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\wwwgl\\source\\repos\\MemoGame2\\MemoGame\\MainPage.xaml.cs",
+              "RelativeToolTip": "MemoGame\\MainPage.xaml.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAcwDAAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T18:32:39.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\wwwgl\\source\\repos\\MemoGame2\\MemoGame\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MemoGame\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\wwwgl\\source\\repos\\MemoGame2\\MemoGame\\MauiProgram.cs",
+              "RelativeToolTip": "MemoGame\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T18:22:25.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GlobalXmlns.cs",
+              "DocumentMoniker": "C:\\Users\\wwwgl\\source\\repos\\MemoGame2\\MemoGame\\GlobalXmlns.cs",
+              "RelativeDocumentMoniker": "MemoGame\\GlobalXmlns.cs",
+              "ToolTip": "C:\\Users\\wwwgl\\source\\repos\\MemoGame2\\MemoGame\\GlobalXmlns.cs",
+              "RelativeToolTip": "MemoGame\\GlobalXmlns.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T18:48:01.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\wwwgl\\source\\repos\\MemoGame2\\MemoGame\\AppShell.xaml",
+              "RelativeDocumentMoniker": "MemoGame\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\wwwgl\\source\\repos\\MemoGame2\\MemoGame\\AppShell.xaml",
+              "RelativeToolTip": "MemoGame\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-22T18:47:42.531Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
