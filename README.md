@@ -30,20 +30,4 @@ Code-Behind (MainPage.xaml.cs): This file acts as the link between the view and 
 
 Converters: These are small helpers that transform data for convenient display in the UI. For example, InverseBoolConverter allows a button to be disabled when its bound property is true.
 
-⚙️ Setup and Running
-To run this project on your machine, follow these steps:
 
-Ensure you have the .NET SDK and the .NET MAUI workload installed.
-
-Official .NET MAUI installation guide
-
-Clone the repository:
-
-Bash
-
-git clone https://github.com/Zhan-Gabriel-Gerke/MemoGame
-Open the project in Visual Studio or JetBrains Rider.
-
-Select the target platform (e.g., Windows Machine, Android Emulator, iOS Simulator).
-
-Press 'Run' (F5). The application will compile and launch.
